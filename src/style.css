@@ -1,0 +1,29 @@
+.center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  background-color: #f1f2eb;
+  padding: 60px;
+  border-radius: 20px;
+}
+
+h1 {
+  position: relative;
+  color: #4a4a48;
+  font-family: "Lexend Mega", sans-serif;
+}
+
+.enter-email {
+  padding-bottom: 25px;
+}
+
+#email-input {
+  border-color: #566246;
+  border-radius: 5px;
+}
+
+#go-button {
+  border-color: #566246;
+  background-color: transparent;
+  border-radius: 5px;
+}
